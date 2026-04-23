@@ -1,0 +1,2007 @@
+{
+  "source": "https://hcde530-week4-api.onrender.com/reviews",
+  "documentation": "https://brockcraft.github.io/docs/hcde530_api_documentation.html",
+  "total_reviews": 500,
+  "reviews": [
+    {
+      "category": "field research",
+      "helpful_votes": 37
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 12
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 38
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 5
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 14
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 23
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 34
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 2
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 45
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 34
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 5
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 46
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 0
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 40
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 8
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 27
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 42
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 37
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 3
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 34
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 43
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 8
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 6
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 25
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 18
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 47
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 10
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 39
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 16
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 4
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 33
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 16
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 0
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 45
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 9
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 26
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 24
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 19
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 25
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 32
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 0
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 20
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 44
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 43
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 19
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 43
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 32
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 12
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 4
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 31
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 11
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 27
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 40
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 4
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 44
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 47
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 34
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 11
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 16
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 14
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 9
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 23
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 19
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 37
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 2
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 26
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 17
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 21
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 46
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 28
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 35
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 16
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 12
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 12
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 8
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 7
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 15
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 28
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 47
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 10
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 4
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 27
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 47
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 32
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 16
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 43
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 17
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 22
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 42
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 0
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 31
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 18
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 35
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 9
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 15
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 4
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 37
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 35
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 36
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 6
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 41
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 2
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 6
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 20
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 11
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 37
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 18
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 19
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 44
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 18
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 16
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 23
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 47
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 34
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 23
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 4
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 31
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 47
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 28
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 22
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 5
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 4
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 7
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 28
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 31
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 8
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 18
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 35
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 46
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 4
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 3
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 9
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 27
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 25
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 9
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 31
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 43
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 13
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 47
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 22
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 39
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 33
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 32
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 4
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 40
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 3
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 29
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 38
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 45
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 10
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 40
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 35
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 23
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 31
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 32
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 39
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 30
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 24
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 16
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 7
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 14
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 5
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 2
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 5
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 18
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 31
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 42
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 35
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 22
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 41
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 45
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 20
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 41
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 47
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 33
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 34
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 10
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 17
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 10
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 23
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 28
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 1
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 39
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 28
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 35
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 14
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 29
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 7
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 22
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 8
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 9
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 2
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 29
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 23
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 3
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 20
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 32
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 13
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 23
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 24
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 2
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 38
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 21
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 2
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 45
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 11
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 45
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 18
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 18
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 12
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 15
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 26
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 47
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 21
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 7
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 43
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 20
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 20
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 17
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 42
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 45
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 8
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 30
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 33
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 9
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 5
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 36
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 4
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 30
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 46
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 24
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 46
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 17
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 8
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 20
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 33
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 40
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 44
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 19
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 35
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 3
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 30
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 47
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 15
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 14
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 46
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 36
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 10
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 31
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 39
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 0
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 27
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 16
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 36
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 2
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 5
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 33
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 30
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 10
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 32
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 38
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 14
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 39
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 20
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 1
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 18
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 9
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 16
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 21
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 19
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 47
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 7
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 1
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 26
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 24
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 34
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 6
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 36
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 32
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 29
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 30
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 1
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 10
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 40
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 24
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 36
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 25
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 37
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 24
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 44
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 3
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 41
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 36
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 2
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 15
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 39
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 17
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 6
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 15
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 40
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 44
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 46
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 17
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 21
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 0
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 40
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 37
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 44
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 6
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 10
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 13
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 15
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 19
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 24
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 23
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 43
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 13
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 27
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 32
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 43
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 29
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 10
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 1
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 40
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 23
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 0
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 35
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 46
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 11
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 19
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 15
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 21
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 31
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 26
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 8
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 15
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 12
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 10
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 45
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 28
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 8
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 41
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 4
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 36
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 17
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 35
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 34
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 22
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 17
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 6
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 14
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 37
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 31
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 30
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 45
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 7
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 19
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 45
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 19
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 2
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 31
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 40
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 13
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 24
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 34
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 1
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 21
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 10
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 13
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 6
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 18
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 30
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 5
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 11
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 3
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 14
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 36
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 36
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 13
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 20
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 7
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 6
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 30
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 2
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 1
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 14
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 41
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 33
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 15
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 40
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 28
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 1
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 14
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 0
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 17
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 25
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 38
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 16
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 3
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 31
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 45
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 30
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 11
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 43
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 30
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 32
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 8
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 31
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 10
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 27
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 20
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 40
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 19
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 33
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 25
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 32
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 39
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 24
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 0
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 26
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 38
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 10
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 5
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 46
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 2
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 2
+    },
+    {
+      "category": "research repository",
+      "helpful_votes": 46
+    },
+    {
+      "category": "usability testing",
+      "helpful_votes": 29
+    },
+    {
+      "category": "collaborative whiteboard",
+      "helpful_votes": 7
+    },
+    {
+      "category": "field research",
+      "helpful_votes": 43
+    },
+    {
+      "category": "user research",
+      "helpful_votes": 31
+    }
+  ]
+}
