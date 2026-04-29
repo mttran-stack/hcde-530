@@ -2,50 +2,50 @@
   "openweather": [
     {
       "city name": "Sacramento",
-      "temp min": 71.42,
-      "temp max": 75.81,
-      "description": "scattered clouds"
+      "temp min": 72.82,
+      "temp max": 76.6,
+      "description": "clear sky"
     },
     {
       "city name": "San Jose",
-      "temp min": 67.75,
-      "temp max": 74.34,
+      "temp min": 65.75,
+      "temp max": 71.4,
       "description": "haze"
     },
     {
       "city name": "San Diego",
-      "temp min": 65.75,
-      "temp max": 73.42,
-      "description": "scattered clouds"
+      "temp min": 64.2,
+      "temp max": 70.3,
+      "description": "few clouds"
     },
     {
       "city name": "Los Angeles",
-      "temp min": 65.43,
-      "temp max": 75.92,
+      "temp min": 62.49,
+      "temp max": 71.01,
       "description": "clear sky"
     },
     {
       "city name": "Oakland",
-      "temp min": 62.87,
-      "temp max": 73.53,
+      "temp min": 60.78,
+      "temp max": 70.29,
       "description": "few clouds"
     },
     {
       "city name": "San Francisco",
-      "temp min": 60.73,
-      "temp max": 70.45,
+      "temp min": 59.61,
+      "temp max": 67.66,
       "description": "few clouds"
     },
     {
       "city name": "Portland",
-      "temp min": 57.04,
-      "temp max": 62.06,
-      "description": "overcast clouds"
+      "temp min": 57.18,
+      "temp max": 61.32,
+      "description": "broken clouds"
     },
     {
       "city name": "Seattle",
-      "temp min": 53.67,
-      "temp max": 58.14,
+      "temp min": 53.51,
+      "temp max": 57.85,
       "description": "overcast clouds"
     }
   ]
