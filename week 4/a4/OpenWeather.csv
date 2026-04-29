@@ -1,9 +1,9 @@
 city name,temp min,temp max,description
-Sacramento,72.82,76.6,clear sky
-San Jose,65.75,71.4,haze
-San Diego,64.2,70.3,few clouds
-Los Angeles,62.49,71.01,clear sky
-Oakland,60.78,70.29,few clouds
-San Francisco,59.61,67.66,few clouds
-Portland,57.18,61.32,broken clouds
-Seattle,53.51,57.85,overcast clouds
+Sacramento,71.82,75.87,clear sky
+San Jose,64.9,70.39,haze
+San Diego,63.86,69.42,few clouds
+Los Angeles,62.01,69.93,clear sky
+Oakland,60.1,68,few clouds
+San Francisco,59.36,66.18,few clouds
+Portland,56.57,60.78,broken clouds
+Seattle,53.51,57.7,overcast clouds
