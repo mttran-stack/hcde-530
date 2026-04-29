@@ -45,7 +45,7 @@ Summary: The API returns JSON. I parse it into `payload`. I read `name` for the 
 
 **Q8.** My `.gitignore` file lists `.env`, so Git will not track the secrets file if this folder is put under version control. That helps keep the API key out of a public repo.
 
-## Endpoint return + what I did with the data (Block D)
+## Endpoint return + what I did with the data
 
 **Q9.** OpenWeather’s `/data/2.5/weather` endpoint returns one current snapshot for the location in `q` (current conditions at request time), not a multi-day forecast. That matches the “current weather” API and my `fetch_current_weather` function, which calls the `/weather` path.
 
