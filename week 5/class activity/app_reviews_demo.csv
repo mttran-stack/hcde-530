@@ -1,0 +1,501 @@
+id,app,category,rating,review,date,helpful_votes,verified_purchase,device_type,app_version
+1,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #1),2023-11-15,29,False,desktop,2.0.0
+2,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #2),2023-10-26,47,True,,5.1.0
+3,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #3),2023-08-23,23,False,desktop,
+4,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #4),2024-03-24,13,True,,3.1.2
+5,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #5),2023-12-25,2,False,desktop,3.2.0
+6,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #6),2024-02-16,34,True,mobile,4.1.0
+7,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #7),2024-01-09,37,True,desktop,3.2.0
+8,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #8)",2023-08-03,21,True,mobile,2.1.0
+9,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #9),2023-04-07,41,False,mobile,2.6.0
+10,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #10),2023-11-12,14,True,mobile,5.2.0
+11,Maze,usability testing,1,Several pain points keep me from recommending this release. (Maze review #11),2023-08-06,31,True,mobile,4.1.0
+12,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #12),2023-12-02,44,True,mobile,4.1.0
+13,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #13)",2023-12-19,17,False,desktop,2.1.0
+14,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #14),2023-08-01,30,False,mobile,3.2.0
+15,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #15),2023-07-04,24,False,mobile,
+16,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #16),2023-01-23,35,False,mobile,3.1.2
+17,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #17)",2023-08-18,25,True,mobile,
+18,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #18),2023-04-18,28,True,mobile,2.6.0
+19,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #19),2023-06-24,6,True,desktop,
+20,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #20),2023-07-13,9,True,tablet,2.5.3
+21,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #21),2023-11-10,5,True,tablet,3.2.0
+22,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #22)",2023-04-23,42,True,mobile,5.3.1
+23,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #23),2023-05-17,27,False,mobile,2.0.0
+24,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #24),2023-02-19,45,True,desktop,3.2.0
+25,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #25),2023-03-19,13,False,mobile,2.5.0
+26,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #26),2023-07-17,13,True,,
+27,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #27)",2023-06-14,25,True,mobile,2.5.0
+28,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #28),2024-03-17,34,True,desktop,2.1.4
+29,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #29),2023-03-26,33,True,,
+30,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #30),2024-02-23,8,True,mobile,4.1.0
+31,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #31),2023-06-28,37,False,desktop,
+32,Miro,collaborative whiteboard,1,Several pain points keep me from recommending this release. (Miro review #32),2023-08-28,38,False,desktop,
+33,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #33),2023-03-15,18,True,desktop,4.0.1
+34,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #34),2023-05-05,14,True,,2.5.3
+35,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #35),2023-03-05,33,True,,5.2.0
+36,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #36),2024-02-19,33,True,mobile,2.0.0
+37,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #37),2023-02-04,20,True,tablet,3.1.2
+38,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #38),2023-05-01,37,False,mobile,4.1.0
+39,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #39)",2024-01-09,5,True,desktop,
+40,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #40)",2024-02-12,9,False,desktop,2.1.0
+41,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #41),2023-08-08,39,True,desktop,2.0.0
+42,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #42),2023-05-01,16,False,desktop,2.5.3
+43,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #43),2023-04-01,8,True,desktop,4.0.1
+44,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #44),2023-08-22,16,True,,
+45,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #45),2023-07-16,34,True,desktop,
+46,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #46),2023-05-01,43,False,tablet,2.1.4
+47,Fieldkit,field research,1,Several pain points keep me from recommending this release. (Fieldkit review #47),2023-03-29,15,False,tablet,2.5.0
+48,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #48),2023-05-17,17,True,desktop,2.0.0
+49,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #49),2023-01-08,21,False,mobile,2.6.0
+50,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #50),2023-06-01,41,True,mobile,5.2.0
+51,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #51)",2024-03-26,11,False,desktop,
+52,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #52),2023-09-27,36,True,mobile,2.0.0
+53,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #53),2024-04-10,17,False,tablet,5.2.0
+54,Lookback,user research,1,Several pain points keep me from recommending this release. (Lookback review #54),2023-11-11,30,False,desktop,
+55,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #55),2023-01-12,41,True,,2.1.0
+56,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #56)",2024-05-14,22,True,mobile,4.1.0
+57,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #57),2023-08-09,42,True,tablet,
+58,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #58),2024-02-21,43,True,mobile,3.1.2
+59,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #59),2024-01-31,17,False,mobile,
+60,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #60),2023-08-19,36,False,desktop,
+61,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #61),2023-02-10,34,False,desktop,5.1.0
+62,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #62),2023-10-18,22,True,desktop,3.1.2
+63,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #63),2023-09-05,23,True,mobile,4.0.1
+64,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #64),2023-08-14,27,True,,3.2.0
+65,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #65),2023-10-04,30,True,mobile,4.1.0
+66,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #66),2024-05-09,5,True,mobile,5.3.1
+67,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #67),2023-04-23,9,True,,5.3.1
+68,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #68),2023-02-04,40,True,desktop,
+69,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #69),2024-01-21,47,True,tablet,2.1.4
+70,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #70),2024-03-12,5,True,mobile,2.1.4
+71,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #71),2023-03-22,15,True,,5.1.0
+72,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #72),2023-07-20,35,True,tablet,5.1.0
+73,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #73),2024-02-16,29,True,mobile,4.1.0
+74,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #74),2024-04-14,20,True,,2.5.3
+75,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #75),2024-05-12,26,True,,4.1.0
+76,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #76),2023-05-29,10,False,desktop,5.1.0
+77,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #77)",2023-04-22,9,True,mobile,
+78,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #78),2024-01-09,2,True,,3.1.2
+79,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #79),2024-04-19,36,True,desktop,2.1.0
+80,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #80),2023-01-30,40,True,mobile,5.1.0
+81,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #81),2023-12-07,32,True,mobile,4.0.1
+82,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #82),2024-01-05,8,True,mobile,2.0.0
+83,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #83),2024-02-10,46,True,tablet,4.0.1
+84,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #84),2024-04-05,43,True,mobile,
+85,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #85),2024-01-20,6,True,mobile,
+86,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #86),2023-05-30,32,True,tablet,
+87,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #87)",2024-05-14,39,True,desktop,2.5.3
+88,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #88),2023-04-28,46,True,tablet,5.1.0
+89,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #89),2023-06-21,46,True,mobile,3.1.2
+90,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #90),2023-05-13,0,True,mobile,
+91,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #91),2023-08-03,47,False,desktop,2.5.3
+92,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #92),2023-12-16,12,True,mobile,
+93,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #93),2024-01-23,37,False,mobile,3.1.2
+94,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #94),2024-01-21,27,False,desktop,3.1.2
+95,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #95),2024-01-04,40,True,mobile,3.2.0
+96,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #96),2023-04-17,32,False,mobile,
+97,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #97),2023-01-03,27,True,mobile,
+98,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #98),2023-10-13,17,True,tablet,3.2.0
+99,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #99),2024-03-17,1,True,mobile,5.1.0
+100,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #100),2023-04-14,43,True,desktop,5.2.0
+101,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #101),2023-12-31,38,True,mobile,2.1.4
+102,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #102),2023-02-14,6,False,desktop,4.0.1
+103,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #103),2023-06-19,35,True,mobile,3.1.0
+104,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #104)",2023-07-05,11,True,,
+105,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #105),2023-04-05,8,False,,3.1.0
+106,Fieldkit,field research,1,Several pain points keep me from recommending this release. (Fieldkit review #106),2023-10-10,19,True,,2.5.3
+107,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #107),2023-08-28,35,True,desktop,2.1.4
+108,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #108),2023-09-21,30,True,,4.1.0
+109,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #109),2023-12-12,6,True,,5.3.1
+110,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #110)",2023-03-24,19,False,desktop,3.1.2
+111,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #111),2023-07-21,11,False,,3.2.0
+112,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #112),2023-02-05,11,True,,5.3.1
+113,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #113),2023-12-31,4,True,tablet,2.6.0
+114,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #114),2024-04-29,4,True,desktop,4.0.1
+115,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #115),2023-08-23,6,False,desktop,2.0.0
+116,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #116),2023-03-28,8,True,mobile,2.1.0
+117,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #117),2023-08-20,11,True,,2.5.0
+118,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #118),2023-04-07,38,True,mobile,3.1.0
+119,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #119)",2024-03-29,25,True,,2.6.0
+120,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #120),2023-11-15,12,True,desktop,4.1.0
+121,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #121),2023-05-18,5,True,mobile,
+122,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #122),2023-05-08,13,True,mobile,5.1.0
+123,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #123),2023-01-12,45,True,tablet,4.1.0
+124,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #124),2023-07-21,44,True,tablet,2.0.0
+125,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #125),2023-07-21,40,True,mobile,3.1.2
+126,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #126),2023-07-19,12,True,mobile,
+127,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #127),2023-01-18,4,True,mobile,4.0.1
+128,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #128),2024-01-29,30,True,tablet,2.5.3
+129,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #129),2024-01-27,7,True,mobile,2.0.0
+130,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #130),2023-07-16,44,False,mobile,
+131,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #131),2023-11-04,40,True,desktop,4.0.1
+132,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #132),2024-02-29,3,True,mobile,
+133,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #133),2023-04-24,25,True,desktop,4.0.1
+134,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #134),2024-03-05,41,True,mobile,4.1.0
+135,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #135),2023-06-02,4,False,tablet,2.5.3
+136,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #136),2023-09-26,36,True,desktop,2.5.3
+137,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #137),2023-03-06,5,True,tablet,2.6.0
+138,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #138),2023-03-21,45,True,desktop,
+139,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #139)",2023-02-22,34,True,desktop,4.1.0
+140,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #140)",2023-08-09,2,True,desktop,
+141,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #141),2024-03-14,8,True,desktop,4.1.0
+142,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #142),2024-05-07,35,True,desktop,5.1.0
+143,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #143),2024-02-15,7,True,desktop,
+144,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #144)",2024-01-10,29,True,mobile,
+145,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #145),2023-05-24,20,False,mobile,2.0.0
+146,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #146),2024-05-08,11,False,desktop,3.1.0
+147,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #147),2023-09-09,32,True,,2.1.0
+148,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #148),2023-09-10,27,True,mobile,
+149,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #149),2024-03-04,18,True,desktop,2.6.0
+150,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #150)",2024-01-29,46,False,tablet,4.1.0
+151,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #151)",2024-02-04,11,False,tablet,
+152,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #152),2024-01-23,35,True,desktop,5.1.0
+153,Fieldkit,field research,2,It works for basic tasks but important workflows feel unfinished. (Fieldkit review #153),2023-12-05,12,True,tablet,2.5.3
+154,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #154),2024-02-03,9,True,desktop,2.5.3
+155,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #155)",2024-02-02,21,True,tablet,3.2.0
+156,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #156),2023-01-04,34,False,desktop,2.1.4
+157,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #157),2024-04-03,7,True,mobile,5.3.1
+158,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #158),2023-07-16,16,True,mobile,4.0.1
+159,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #159),2023-11-16,31,True,mobile,4.0.1
+160,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #160),2023-02-05,47,True,desktop,4.0.1
+161,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #161),2023-02-16,28,False,desktop,4.0.1
+162,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #162),2023-11-04,42,True,desktop,
+163,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #163),2023-02-18,13,True,desktop,3.1.2
+164,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #164),2024-01-29,28,True,desktop,
+165,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #165),2023-07-11,29,True,mobile,4.1.0
+166,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #166),2023-08-29,42,True,mobile,2.6.0
+167,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #167),2023-05-31,11,False,mobile,2.6.0
+168,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #168),2023-04-14,16,False,mobile,4.0.1
+169,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #169),2023-10-31,14,True,desktop,2.5.3
+170,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #170),2024-04-12,39,False,,
+171,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #171),2024-04-18,1,False,desktop,2.5.3
+172,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #172),2023-04-21,44,True,mobile,5.3.1
+173,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #173),2023-06-10,27,True,mobile,
+174,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #174),2023-10-30,23,True,,
+175,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #175),2023-08-26,2,True,desktop,2.1.0
+176,Maze,usability testing,1,Several pain points keep me from recommending this release. (Maze review #176),2023-06-24,39,False,tablet,
+177,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #177),2024-03-08,36,False,mobile,4.0.1
+178,Maze,usability testing,1,Several pain points keep me from recommending this release. (Maze review #178),2024-02-25,19,True,tablet,
+179,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #179),2023-07-28,45,True,mobile,4.1.0
+180,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #180),2023-01-26,17,True,desktop,2.1.4
+181,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #181),2023-09-27,12,True,tablet,3.1.2
+182,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #182),2024-03-09,10,True,mobile,4.1.0
+183,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #183),2024-01-03,42,True,,2.5.0
+184,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #184),2023-04-18,26,True,,2.5.3
+185,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #185),2023-07-24,37,True,mobile,
+186,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #186),2024-02-04,11,True,tablet,2.6.0
+187,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #187),2023-04-26,19,True,desktop,2.5.0
+188,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #188)",2023-06-20,46,True,tablet,3.1.2
+189,Maze,usability testing,1,Several pain points keep me from recommending this release. (Maze review #189),2023-12-22,5,True,desktop,
+190,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #190),2023-11-14,17,True,desktop,3.2.0
+191,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #191),2024-04-09,25,True,mobile,2.0.0
+192,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #192),2023-08-27,5,True,,3.1.2
+193,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #193),2023-01-31,30,True,tablet,5.1.0
+194,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #194)",2023-04-11,0,True,,
+195,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #195),2024-03-20,40,True,mobile,5.3.1
+196,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #196),2023-01-30,16,True,mobile,5.3.1
+197,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #197),2023-10-17,6,True,mobile,
+198,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #198),2023-03-12,12,True,desktop,
+199,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #199)",2024-05-01,8,True,tablet,2.6.0
+200,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #200),2023-12-06,44,True,mobile,3.2.0
+201,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #201),2023-06-16,39,True,mobile,2.5.0
+202,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #202),2023-05-26,10,True,desktop,3.1.0
+203,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #203),2023-02-15,8,True,desktop,2.5.0
+204,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #204),2023-07-10,3,True,mobile,2.0.0
+205,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #205),2024-05-09,4,True,tablet,2.5.0
+206,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #206),2023-01-16,6,True,mobile,2.1.0
+207,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #207),2024-02-18,35,False,desktop,4.1.0
+208,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #208)",2023-02-12,37,True,mobile,4.0.1
+209,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #209)",2023-11-12,19,False,mobile,4.1.0
+210,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #210),2023-06-03,30,True,mobile,3.1.2
+211,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #211),2023-09-19,45,True,mobile,4.1.0
+212,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #212),2023-07-27,21,False,mobile,
+213,Fieldkit,field research,1,Several pain points keep me from recommending this release. (Fieldkit review #213),2023-12-19,16,True,,2.5.0
+214,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #214),2023-08-22,3,False,desktop,3.1.0
+215,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #215),2023-07-30,38,True,mobile,2.6.0
+216,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #216),2023-05-11,20,False,tablet,5.1.0
+217,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #217)",2024-01-13,11,True,,5.3.1
+218,Lookback,user research,1,Several pain points keep me from recommending this release. (Lookback review #218),2024-02-26,33,True,,
+219,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #219)",2023-06-15,45,True,mobile,
+220,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #220),2023-12-10,31,True,desktop,4.1.0
+221,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #221),2024-03-16,3,False,mobile,4.1.0
+222,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #222),2024-01-18,9,True,mobile,
+223,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #223),2023-06-03,36,True,mobile,
+224,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #224),2023-04-19,21,True,mobile,3.2.0
+225,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #225),2023-11-22,43,False,desktop,2.0.0
+226,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #226)",2023-05-28,47,True,mobile,2.1.0
+227,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #227)",2023-05-05,13,True,tablet,
+228,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #228),2023-06-19,26,True,mobile,2.0.0
+229,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #229),2023-11-07,21,True,mobile,2.5.3
+230,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #230),2023-03-19,29,True,desktop,
+231,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #231),2024-04-07,6,True,mobile,5.1.0
+232,Fieldkit,field research,1,Several pain points keep me from recommending this release. (Fieldkit review #232),2023-12-13,29,False,desktop,2.6.0
+233,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #233),2023-10-07,32,True,desktop,
+234,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #234),2023-11-01,3,True,tablet,4.1.0
+235,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #235),2023-08-12,2,True,tablet,
+236,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #236)",2023-07-24,20,True,mobile,5.1.0
+237,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #237),2024-05-13,10,True,,4.0.1
+238,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #238),2023-08-09,39,True,,2.6.0
+239,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #239),2024-01-21,11,True,desktop,3.2.0
+240,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #240),2024-02-19,22,False,desktop,2.1.0
+241,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #241),2023-01-19,36,True,tablet,3.2.0
+242,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #242)",2023-08-25,25,True,desktop,5.2.0
+243,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #243)",2023-02-11,29,True,mobile,4.1.0
+244,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #244),2024-04-08,44,True,mobile,3.1.2
+245,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #245),2024-04-24,25,True,mobile,2.5.3
+246,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #246),2023-10-28,47,False,mobile,3.2.0
+247,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #247),2023-03-02,3,True,mobile,3.1.2
+248,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #248),2023-09-15,32,True,,5.2.0
+249,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #249),2023-09-15,44,True,desktop,4.0.1
+250,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #250),2023-09-04,26,True,mobile,
+251,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #251),2023-08-23,46,True,mobile,2.6.0
+252,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #252),2023-09-14,21,True,desktop,2.1.0
+253,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #253),2023-04-01,20,True,,5.1.0
+254,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #254),2023-03-14,4,False,mobile,
+255,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #255),2023-10-21,0,False,mobile,3.1.2
+256,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #256),2023-08-04,17,True,,4.1.0
+257,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #257),2023-09-27,35,True,desktop,3.2.0
+258,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #258)",2023-01-17,10,True,tablet,
+259,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #259),2023-10-12,46,True,tablet,4.0.1
+260,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #260),2023-02-22,45,True,desktop,
+261,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #261)",2024-04-28,8,True,mobile,2.5.3
+262,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #262),2023-11-10,9,True,desktop,3.1.0
+263,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #263),2023-07-17,30,True,desktop,2.5.0
+264,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #264),2023-07-26,13,False,desktop,2.1.4
+265,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #265)",2023-03-18,11,True,mobile,2.0.0
+266,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #266),2024-03-28,45,False,desktop,3.1.2
+267,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #267),2023-03-20,36,True,,3.1.2
+268,Maze,usability testing,1,Several pain points keep me from recommending this release. (Maze review #268),2024-02-29,17,True,desktop,4.1.0
+269,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #269),2024-02-08,10,True,mobile,2.6.0
+270,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #270),2023-05-24,16,False,mobile,5.1.0
+271,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #271),2023-12-08,12,True,tablet,3.1.2
+272,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #272)",2023-10-19,36,False,mobile,4.1.0
+273,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #273),2023-01-05,47,True,desktop,
+274,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #274),2023-02-24,25,False,desktop,5.2.0
+275,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #275),2023-11-16,34,True,tablet,2.6.0
+276,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #276),2023-07-20,44,True,mobile,2.0.0
+277,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #277),2023-04-12,18,False,tablet,5.2.0
+278,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #278),2023-12-01,39,False,,3.1.0
+279,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #279)",2023-06-01,45,False,mobile,4.0.1
+280,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #280),2023-05-01,47,True,mobile,4.0.1
+281,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #281),2024-05-07,44,True,desktop,2.6.0
+282,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #282),2023-10-18,38,False,desktop,3.2.0
+283,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #283)",2023-05-15,1,False,mobile,
+284,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #284),2023-06-10,30,True,mobile,5.2.0
+285,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #285),2023-02-10,26,True,tablet,2.0.0
+286,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #286),2023-09-10,27,True,mobile,5.2.0
+287,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #287),2023-07-26,19,True,mobile,2.1.4
+288,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #288),2024-01-10,38,True,desktop,2.1.0
+289,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #289),2023-08-01,15,True,,
+290,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #290),2023-09-21,6,True,mobile,2.1.0
+291,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #291),2023-04-05,25,True,mobile,2.1.4
+292,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #292),2024-05-07,21,True,,3.1.0
+293,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #293),2023-04-24,5,True,tablet,
+294,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #294),2024-01-15,47,False,mobile,2.5.3
+295,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #295)",2023-03-30,1,True,mobile,
+296,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #296)",2024-05-03,15,True,mobile,4.0.1
+297,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #297),2023-03-30,12,True,desktop,4.1.0
+298,Fieldkit,field research,2,It works for basic tasks but important workflows feel unfinished. (Fieldkit review #298),2024-03-21,13,True,desktop,2.6.0
+299,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #299),2023-02-02,0,False,tablet,2.5.0
+300,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #300),2024-04-06,27,True,mobile,2.1.4
+301,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #301)",2023-01-11,1,True,mobile,4.1.0
+302,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #302),2023-02-21,7,True,mobile,3.1.2
+303,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #303),2023-10-31,10,False,tablet,2.5.3
+304,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #304)",2023-12-04,21,True,desktop,2.1.0
+305,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #305),2023-02-05,21,True,tablet,4.1.0
+306,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #306),2023-11-10,42,True,mobile,5.1.0
+307,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #307),2023-01-06,26,True,desktop,3.1.0
+308,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #308),2023-10-24,43,True,,2.5.3
+309,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #309),2023-10-02,32,True,desktop,
+310,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #310)",2023-03-17,43,True,tablet,2.5.0
+311,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #311),2024-02-09,31,True,mobile,4.0.1
+312,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #312),2023-12-29,9,True,desktop,
+313,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #313),2023-10-27,46,True,mobile,5.3.1
+314,Lookback,user research,1,Several pain points keep me from recommending this release. (Lookback review #314),2024-03-11,23,False,desktop,
+315,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #315),2023-10-07,14,False,desktop,2.6.0
+316,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #316),2023-08-27,37,False,mobile,5.2.0
+317,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #317),2024-01-06,10,True,mobile,3.2.0
+318,Miro,collaborative whiteboard,1,Several pain points keep me from recommending this release. (Miro review #318),2023-01-23,5,False,mobile,3.1.2
+319,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #319),2023-08-30,34,False,mobile,5.2.0
+320,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #320),2023-01-10,15,True,desktop,3.1.2
+321,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #321),2023-09-29,30,True,mobile,2.0.0
+322,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #322),2023-11-02,30,True,desktop,5.3.1
+323,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #323),2023-09-19,38,True,,
+324,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #324),2023-04-21,34,False,mobile,2.0.0
+325,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #325),2023-02-21,41,True,mobile,3.1.2
+326,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #326)",2023-11-07,28,True,desktop,3.2.0
+327,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #327),2023-05-03,8,True,tablet,
+328,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #328),2023-01-22,41,True,mobile,3.1.0
+329,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #329),2023-10-15,21,True,desktop,2.0.0
+330,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #330),2023-07-26,3,True,desktop,2.0.0
+331,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #331),2023-03-11,39,False,mobile,3.1.2
+332,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #332),2024-04-07,20,True,,3.1.0
+333,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #333)",2023-11-01,44,False,tablet,3.1.2
+334,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #334),2023-01-09,14,False,mobile,2.6.0
+335,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #335),2023-09-17,45,True,tablet,3.1.2
+336,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #336),2023-01-07,41,True,desktop,2.6.0
+337,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #337),2023-12-24,46,True,desktop,4.0.1
+338,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #338),2024-03-28,11,True,tablet,2.6.0
+339,Miro,collaborative whiteboard,1,Several pain points keep me from recommending this release. (Miro review #339),2023-04-06,26,False,,3.2.0
+340,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #340),2023-02-09,3,True,mobile,5.3.1
+341,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #341),2023-01-31,29,True,mobile,
+342,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #342),2024-04-14,29,True,tablet,5.2.0
+343,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #343),2023-07-28,30,True,desktop,4.1.0
+344,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #344),2023-09-08,7,False,mobile,5.2.0
+345,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #345),2024-01-05,34,True,mobile,3.1.0
+346,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #346),2023-12-18,35,True,desktop,
+347,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #347),2023-04-02,40,True,mobile,4.1.0
+348,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #348),2023-08-25,34,True,tablet,3.1.2
+349,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #349),2023-09-30,14,True,mobile,2.1.4
+350,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #350),2024-04-29,6,True,mobile,2.6.0
+351,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #351)",2023-01-12,17,True,mobile,
+352,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #352),2024-04-29,8,False,desktop,
+353,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #353),2023-07-08,10,False,desktop,5.3.1
+354,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #354),2023-08-20,28,True,desktop,3.2.0
+355,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #355),2023-09-18,35,False,mobile,2.0.0
+356,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #356),2023-04-18,45,True,desktop,
+357,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #357),2024-03-05,31,False,tablet,
+358,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #358)",2023-07-09,9,True,tablet,5.3.1
+359,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #359)",2024-01-28,11,True,tablet,2.1.0
+360,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #360),2023-11-06,22,False,mobile,
+361,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #361),2024-04-08,5,False,tablet,2.5.0
+362,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #362),2023-02-17,33,True,tablet,2.1.0
+363,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #363)",2024-05-08,26,False,desktop,
+364,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #364),2023-03-17,21,False,,3.1.0
+365,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #365),2023-12-02,32,False,mobile,2.6.0
+366,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #366),2023-06-19,14,True,mobile,5.1.0
+367,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #367),2023-07-27,22,True,desktop,3.2.0
+368,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #368)",2024-01-12,6,False,mobile,5.1.0
+369,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #369),2023-09-13,16,True,mobile,2.5.0
+370,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #370),2024-02-27,35,False,mobile,
+371,Lookback,user research,1,Several pain points keep me from recommending this release. (Lookback review #371),2023-09-18,15,True,mobile,5.3.1
+372,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #372),2023-01-18,21,True,mobile,3.2.0
+373,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #373),2024-04-21,12,False,tablet,3.1.2
+374,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #374),2023-04-05,5,False,mobile,2.5.3
+375,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #375),2024-03-18,33,True,mobile,2.1.0
+376,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #376),2023-05-22,6,True,,2.5.0
+377,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #377),2023-03-18,8,True,mobile,
+378,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #378),2023-12-10,6,True,,4.0.1
+379,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #379),2023-09-29,13,True,mobile,
+380,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #380),2023-08-16,6,True,desktop,3.1.0
+381,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #381),2023-08-09,33,True,mobile,
+382,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #382),2023-07-27,26,True,desktop,
+383,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #383),2023-09-18,12,True,mobile,2.0.0
+384,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #384),2023-08-01,1,False,mobile,3.2.0
+385,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #385),2023-11-04,14,True,mobile,
+386,Fieldkit,field research,2,It works for basic tasks but important workflows feel unfinished. (Fieldkit review #386),2023-07-06,15,False,desktop,2.5.3
+387,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #387),2024-01-15,5,True,mobile,5.2.0
+388,Maze,usability testing,1,Several pain points keep me from recommending this release. (Maze review #388),2023-01-07,21,True,,4.0.1
+389,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #389),2023-06-17,21,True,mobile,
+390,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #390),2023-06-11,18,True,desktop,
+391,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #391),2024-01-18,38,False,desktop,5.1.0
+392,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #392),2023-07-08,40,True,mobile,4.1.0
+393,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #393),2023-04-13,28,False,mobile,
+394,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #394),2023-03-14,1,True,desktop,
+395,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #395),2023-11-13,24,False,tablet,
+396,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #396),2024-01-14,16,True,desktop,
+397,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #397),2024-03-03,20,True,desktop,5.3.1
+398,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #398),2023-02-20,4,True,desktop,3.2.0
+399,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #399),2024-02-21,45,True,desktop,
+400,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #400),2023-06-12,1,True,mobile,2.6.0
+401,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #401),2023-10-28,11,True,mobile,
+402,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #402)",2024-01-17,43,True,,2.5.0
+403,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #403),2024-01-20,37,True,mobile,2.1.0
+404,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #404),2023-11-13,12,True,mobile,5.3.1
+405,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #405),2024-05-06,47,False,desktop,
+406,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #406),2024-01-04,2,True,desktop,2.1.0
+407,Miro,collaborative whiteboard,3,"Mixed experience: useful in places, frustrating in others. (Miro review #407)",2023-08-11,46,True,mobile,
+408,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #408),2023-10-01,25,False,mobile,3.1.0
+409,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #409),2024-02-01,16,True,desktop,2.0.0
+410,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #410),2024-05-08,9,True,tablet,3.1.0
+411,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #411),2023-02-08,21,True,tablet,2.0.0
+412,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #412),2024-02-26,24,True,mobile,5.1.0
+413,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #413),2023-01-02,23,False,desktop,5.1.0
+414,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #414),2024-05-04,13,False,mobile,5.2.0
+415,Dovetail,research repository,1,Several pain points keep me from recommending this release. (Dovetail review #415),2023-01-10,6,True,,2.0.0
+416,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #416),2023-01-26,34,True,mobile,3.2.0
+417,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #417),2024-05-07,12,True,desktop,3.2.0
+418,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #418),2023-09-10,2,True,mobile,2.5.0
+419,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #419),2023-10-01,20,True,desktop,3.1.0
+420,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #420),2024-04-10,35,False,mobile,3.1.2
+421,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #421),2024-05-08,46,False,mobile,
+422,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #422),2024-05-01,12,True,desktop,5.3.1
+423,Miro,collaborative whiteboard,1,Several pain points keep me from recommending this release. (Miro review #423),2023-09-10,34,False,tablet,3.2.0
+424,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #424)",2023-03-23,21,True,desktop,5.1.0
+425,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #425),2023-05-20,19,True,desktop,3.2.0
+426,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #426),2024-03-07,18,False,mobile,3.1.0
+427,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #427),2023-09-23,43,True,mobile,5.3.1
+428,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #428),2023-04-24,8,True,,3.2.0
+429,Lookback,user research,2,It works for basic tasks but important workflows feel unfinished. (Lookback review #429),2023-05-31,9,True,mobile,5.1.0
+430,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #430),2023-07-21,18,True,mobile,4.1.0
+431,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #431),2023-04-11,34,True,mobile,
+432,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #432),2023-12-07,22,False,tablet,3.1.0
+433,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #433),2023-09-11,32,True,mobile,4.0.1
+434,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #434),2023-05-12,24,True,desktop,
+435,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #435),2023-06-27,19,False,desktop,5.2.0
+436,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #436),2023-06-01,34,True,desktop,
+437,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #437),2023-08-19,22,False,mobile,3.1.2
+438,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #438),2023-06-30,4,True,desktop,5.3.1
+439,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #439),2023-01-28,27,True,mobile,
+440,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #440),2023-05-13,10,True,mobile,
+441,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #441),2023-01-21,43,True,desktop,4.0.1
+442,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #442),2023-06-21,35,True,tablet,4.0.1
+443,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #443),2023-10-10,23,False,mobile,
+444,Lookback,user research,1,Several pain points keep me from recommending this release. (Lookback review #444),2023-10-04,5,False,mobile,5.3.1
+445,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #445),2023-04-30,32,True,,3.2.0
+446,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #446)",2023-06-21,6,True,mobile,2.0.0
+447,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #447)",2024-02-08,43,False,,5.3.1
+448,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #448)",2023-04-24,29,False,desktop,4.0.1
+449,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #449),2023-12-22,19,True,tablet,3.2.0
+450,Maze,usability testing,3,"Mixed experience: useful in places, frustrating in others. (Maze review #450)",2023-12-09,47,True,,4.0.1
+451,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #451),2023-06-20,25,True,tablet,3.1.0
+452,Dovetail,research repository,2,It works for basic tasks but important workflows feel unfinished. (Dovetail review #452),2023-02-25,24,False,tablet,
+453,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #453),2024-02-17,25,True,desktop,
+454,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #454),2024-01-26,8,True,mobile,
+455,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #455),2023-08-13,29,True,,2.1.0
+456,Maze,usability testing,2,It works for basic tasks but important workflows feel unfinished. (Maze review #456),2023-01-08,3,False,desktop,4.1.0
+457,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #457),2023-10-30,12,True,desktop,3.1.0
+458,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #458),2023-01-20,45,True,desktop,5.1.0
+459,Lookback,user research,1,Several pain points keep me from recommending this release. (Lookback review #459),2024-01-15,11,False,mobile,5.2.0
+460,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #460),2023-05-17,39,True,,4.0.1
+461,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #461),2023-06-26,13,False,mobile,2.0.0
+462,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #462),2023-04-07,43,True,tablet,
+463,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #463),2023-07-09,20,False,mobile,4.0.1
+464,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #464),2024-05-05,16,True,mobile,
+465,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #465),2023-06-20,15,True,desktop,3.1.0
+466,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #466),2023-02-14,29,True,,2.0.0
+467,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #467),2023-04-23,9,True,mobile,5.1.0
+468,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #468),2024-01-14,28,True,mobile,
+469,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #469),2024-05-10,16,False,mobile,4.1.0
+470,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #470),2023-01-23,24,True,desktop,4.1.0
+471,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #471),2023-09-23,44,True,mobile,2.0.0
+472,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #472),2023-01-17,37,True,desktop,3.1.0
+473,Fieldkit,field research,5,Reliable and thoughtfully designed; this has become a daily tool. (Fieldkit review #473),2024-01-18,35,True,mobile,2.6.0
+474,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #474),2023-08-28,42,True,mobile,5.1.0
+475,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #475),2023-08-06,5,False,mobile,3.2.0
+476,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #476),2023-12-24,38,True,desktop,3.2.0
+477,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #477),2023-06-04,3,False,mobile,
+478,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #478),2024-04-09,23,False,mobile,
+479,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #479),2023-02-17,44,True,,5.3.1
+480,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #480),2023-08-11,36,True,desktop,2.0.0
+481,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #481),2023-02-16,13,False,desktop,3.1.2
+482,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #482)",2023-03-08,1,True,mobile,2.6.0
+483,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #483),2024-01-21,35,False,desktop,3.2.0
+484,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #484),2024-02-06,28,True,desktop,4.1.0
+485,Lookback,user research,3,"Mixed experience: useful in places, frustrating in others. (Lookback review #485)",2024-03-04,16,True,tablet,5.1.0
+486,Fieldkit,field research,4,Solid overall; a few rough edges but it fits my routine well. (Fieldkit review #486),2024-01-11,13,False,mobile,2.6.0
+487,Maze,usability testing,5,Reliable and thoughtfully designed; this has become a daily tool. (Maze review #487),2023-07-27,40,True,tablet,4.0.1
+488,Miro,collaborative whiteboard,5,Reliable and thoughtfully designed; this has become a daily tool. (Miro review #488),2023-11-26,21,False,desktop,3.1.2
+489,Maze,usability testing,4,Solid overall; a few rough edges but it fits my routine well. (Maze review #489),2023-05-13,46,True,mobile,4.0.1
+490,Fieldkit,field research,3,"Mixed experience: useful in places, frustrating in others. (Fieldkit review #490)",2024-03-01,20,True,tablet,2.5.0
+491,Dovetail,research repository,3,"Mixed experience: useful in places, frustrating in others. (Dovetail review #491)",2024-03-15,8,False,mobile,2.0.0
+492,Dovetail,research repository,4,Solid overall; a few rough edges but it fits my routine well. (Dovetail review #492),2024-03-06,42,True,,2.1.4
+493,Miro,collaborative whiteboard,4,Solid overall; a few rough edges but it fits my routine well. (Miro review #493),2023-08-01,36,True,mobile,3.1.0
+494,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #494),2024-01-06,24,True,desktop,5.1.0
+495,Lookback,user research,5,Reliable and thoughtfully designed; this has become a daily tool. (Lookback review #495),2023-07-28,22,False,desktop,5.1.0
+496,Miro,collaborative whiteboard,2,It works for basic tasks but important workflows feel unfinished. (Miro review #496),2023-07-07,24,True,,
+497,Miro,collaborative whiteboard,1,Several pain points keep me from recommending this release. (Miro review #497),2023-01-25,7,True,,3.2.0
+498,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #498),2023-06-25,29,True,desktop,2.1.0
+499,Dovetail,research repository,5,Reliable and thoughtfully designed; this has become a daily tool. (Dovetail review #499),2023-10-03,19,True,tablet,2.1.0
+500,Lookback,user research,4,Solid overall; a few rough edges but it fits my routine well. (Lookback review #500),2024-02-16,46,True,desktop,5.1.0
