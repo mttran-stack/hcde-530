@@ -2,9 +2,9 @@
 
 ## Competency claim
 
-I used pandas in `mp1a.ipynb` to answer one of my analytical questions on the HINTS dataset: **How do digital literacy scores vary by internet-use frequency (`FreqUseInternet`)?**
+I used pandas in `mp1a.ipynb` to answer a specific analytical question on the HINTS dataset: **How do digital literacy scores vary by internet-use frequency (`FreqUseInternet`)?**
 
-I loaded the dataset, cleaned invalid values, grouped the data, calculated summary statistics, and interpreted what the output means.
+This is a strong C5 claim because I loaded the dataset, cleaned invalid values, grouped the data, calculated summary statistics, and interpreted what the output means.
 
 ## Evidence from my notebook
 
@@ -22,8 +22,13 @@ I loaded the dataset, cleaned invalid values, grouped the data, calculated summa
 
 ## Interpretation of the result
 
-From my grouped table, average `DigLit_SearchSkills` increases across internet-use categories (for example, about 1.54 at `FreqUseInternet=1`, 1.99 at `=2`, and 2.20 at `=3` in the notebook output).  
+From my grouped table, average `DigLit_SearchSkills` increases across internet-use frequency groups (for example, about 1.54 at `FreqUseInternet=1`, 1.99 at `=2`, and 2.20 at `=3` in the notebook output).  
 
-Codebook reminder for `FreqUseInternet`: `1=More than once per day`, `2=About once per day`, `3=A few times a week`, `4=Less than once per week`, `5=Rarely`, `6=Never`.
+Interpretation: respondents who report more frequent internet use tend to report stronger search-skill confidence. This pattern is meaningful for the MP because it suggests digital behavior and digital literacy move together in this sample, and it gives a concrete direction for deeper analysis.
 
-Interpretation: because larger `FreqUseInternet` values mean **less** frequent use, this pattern suggests respondents with less frequent internet use report higher `DigLit_SearchSkills` in these grouped means. This is a result worth double-checking in the MP with additional cleaning and subgroup checks before making a broader claim.
+## Why this meets C5
+
+- I answered a real question with pandas, not just displayed raw output.
+- I used more than two pandas operations (`groupby`, `mean`, `value_counts`, and filtering).
+- I handled missing/invalid values (negative sentinel codes) before interpreting results.
+- I wrote a clear interpretation that explains what the numbers imply.

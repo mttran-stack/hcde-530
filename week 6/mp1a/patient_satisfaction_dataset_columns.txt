@@ -1,0 +1,20 @@
+Variables (columns) in patient_satisfaction_dataset.csv
+Source: first row of the CSV file.
+
+1. satisfaction in RM
+2. Check up appointment
+3. Time waiting
+4. Admin procedures
+5. Hygiene and cleaning
+6. Time of appointment
+7. Quality/experience dr.
+8. Specialists avaliable
+9. Communication with dr
+10. Exact diagnosis
+11. Modern equipment
+12. friendly health care workers
+13. lab services
+14. avaliablity of drugs
+15. waiting rooms
+16. hospital rooms quality
+17. parking, playing rooms, caffes
