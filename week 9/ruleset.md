@@ -38,9 +38,24 @@ This checks that L1, L2, and L3 behave as specified in the test cases below.
 ### Source code
 
 Project files live in the **week 9** folder of the course repository:  
-https://github.com/mttran-stack/hcde-530
+https://github.com/mttran-stack/hcde-530/tree/main/week%209
 
-There is no separate hosted deployment for v1 — run locally with the steps above.
+### Public app (Streamlit Community Cloud)
+
+Source code is on GitHub. To publish a public link:
+
+1. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub.
+2. Click **Create app** → **Yup, I have an app**.
+3. Set **Main file path** to `week 9/app.py` (repo: `mttran-stack/hcde-530`, branch: `main`).  
+   Or paste this GitHub URL:  
+   https://github.com/mttran-stack/hcde-530/blob/main/week%209/app.py
+4. Optional: set a custom subdomain (e.g. `interview-bias-checker`) → your app URL becomes  
+   `https://interview-bias-checker.streamlit.app`
+5. Click **Deploy**.
+
+After deploy, add your live URL here:
+
+**Public app:** _(add your `.streamlit.app` link after first deploy)_
 
 ## What this tool does not detect
 

@@ -69,9 +69,23 @@ Each sub-rule has five questions that should flag and five that should not (see 
 | `requirements.txt` | Python dependencies |
 | `.streamlit/config.toml` | Streamlit theme config |
 
-## Public URL
+## Public app
 
-GitHub repository: `https://github.com/mttran-stack/hcde-530` (week 9 folder)
+Code is pushed to GitHub. Deploy on [Streamlit Community Cloud](https://share.streamlit.io):
+
+| Setting | Value |
+|---------|--------|
+| Repository | `mttran-stack/hcde-530` |
+| Branch | `main` |
+| Main file path | `week 9/app.py` |
+
+Or paste: https://github.com/mttran-stack/hcde-530/blob/main/week%209/app.py
+
+Suggested custom subdomain: `interview-bias-checker` → `https://interview-bias-checker.streamlit.app`
+
+**Live app:** _(add your URL after deploy)_
+
+GitHub: https://github.com/mttran-stack/hcde-530/tree/main/week%209
 
 ## Limitations
 
