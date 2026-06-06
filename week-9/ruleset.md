@@ -18,7 +18,7 @@ survey question-wording research.
 
 ### Run the app locally
 
-From the `week 9` project folder:
+From the `week-9` project folder:
 
 ```bash
 pip install -r requirements.txt
@@ -37,8 +37,8 @@ This checks that L1, L2, and L3 behave as specified in the test cases below.
 
 ### Source code
 
-Project files live in the **week 9** folder of the course repository:  
-https://github.com/mttran-stack/hcde-530/tree/main/week%209
+Project files live in the **week-9** folder of the course repository:  
+https://github.com/mttran-stack/hcde-530/tree/main/week-9
 
 ### Public app (Streamlit Community Cloud)
 
@@ -46,9 +46,9 @@ Source code is on GitHub. To publish a public link:
 
 1. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub.
 2. Click **Create app** → **Yup, I have an app**.
-3. Set **Main file path** to `week 9/app.py` (repo: `mttran-stack/hcde-530`, branch: `main`).  
+3. Set **Main file path** to `week-9/app.py` (repo: `mttran-stack/hcde-530`, branch: `main`).  
    Or paste this GitHub URL:  
-   https://github.com/mttran-stack/hcde-530/blob/main/week%209/app.py
+   https://github.com/mttran-stack/hcde-530/blob/main/week-9/app.py
 4. Optional: set a custom subdomain (e.g. `interview-bias-checker`) → your app URL becomes  
    `https://interview-bias-checker.streamlit.app`
 5. Click **Deploy**.
