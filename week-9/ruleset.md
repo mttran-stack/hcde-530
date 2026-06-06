@@ -53,9 +53,7 @@ Source code is on GitHub. To publish a public link:
    `https://interview-bias-checker.streamlit.app`
 5. Click **Deploy**.
 
-After deploy, add your live URL here:
-
-**Public app:** _(add your `.streamlit.app` link after first deploy)_
+**Public app:** https://mttran-stack-hcde-530-week9app-gfhn2z.streamlit.app
 
 ## What this tool does not detect
 
