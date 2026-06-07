@@ -36,6 +36,10 @@ _TENS = {
 
 
 def parse_experience_years(raw: str) -> int:
+    """Parse experience_years from digits or English words (e.g. 'fifteen').
+
+    Raw survey exports are not always numeric — int() alone raises ValueError on word forms.
+    """
     s = (raw or "").strip().lower().replace("-", " ")
     if not s:
         raise ValueError("experience_years is empty")
@@ -156,7 +160,8 @@ for row in rows:
     if row["satisfaction_score"].strip():
         scored_rows.append((row["participant_name"], int(row["satisfaction_score"])))
 
-scored_rows.sort(key=lambda x: x[1])
+# Highest scores first — ascending sort + [:5] incorrectly returned the five lowest scores
+scored_rows.sort(key=lambda x: x[1], reverse=True)
 top5 = scored_rows[:5]
 
 print("\nTop 5 satisfaction scores:")
