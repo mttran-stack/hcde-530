@@ -1472,7 +1472,7 @@ def _results_status_copy(result):
     review_noun = "question" if flagged == 1 else "questions"
     return (
         f"{flagged} {review_noun} need review",
-        f"{neutral} of {total} are clear — here's what to fix.",
+        f"Here's what to fix.",
     )
 
 
